@@ -1,4 +1,10 @@
 
+
+
+// wrote most of this in an ADHD trance, will add proper comments at some point
+
+
+
 const int trigPin1 = 7;
 const int echoPin1 = 8;
 
